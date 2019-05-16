@@ -1,11 +1,3 @@
-#### Introduction
-#### Pros and cons
-#### Explanation
-#### Example
-#### Case uses
-#### Other
-
-
 # ML Algorithms
 ## Supervised-Classification
 ### Random Forest
@@ -106,6 +98,7 @@ http://www.randomservices.org/
 ### Power law
 ### ParetoNBD
 https://mikulskibartosz.name/predicting-customer-churn-using-the-pareto-nbd-model-53f96fb142ef
+https://mikulskibartosz.name/predicting-customer-lifetime-value-using-the-pareto-nbd-model-and-gamma-gamma-model-7e1b40a87888
 ###
 ## Methods
 ### Hypothesis tests
