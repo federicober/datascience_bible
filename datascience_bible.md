@@ -25,6 +25,7 @@ In detail, Gradient Boost starts with a single predition that minimizes the tota
 
 The final predictions of the model will be the initial prediction summed to the scaled sum of all the trees.
 ####
+### Hidden Markov Models
 ###
 
 ## Supervised-Regression
@@ -62,12 +63,14 @@ The final predictions of the model will be the initial prediction summed to the 
 ### ICA
 ### LLE
 
+# Metrics
 
 
 # DL Algorithms
 ## NN layer types
 ### Dense
 ### Convolutional
+### Time delay NN
 ### Recurrent
 #### LSTM
 ## Architecture types
@@ -77,7 +80,7 @@ The final predictions of the model will be the initial prediction summed to the 
 #### Attention
 #### Self attention
 
-### Embedder
+### Embeddings
 ###
 
 ## Famous Neural Networks
@@ -90,6 +93,9 @@ The final predictions of the model will be the initial prediction summed to the 
 ### Recurrent
 #### ELMo
 #### BERT
+
+# RL
+https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
 
 # Statistics
 http://www.randomservices.org/
