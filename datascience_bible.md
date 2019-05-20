@@ -13,6 +13,18 @@ https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-f
 ### Naive Bayes
 ### Support Vector Machine
 ### kNeighbors
+### AdaBoost
+### Gradient Boost
+Gradient boost is and ensemble classifier. This means that it works by iterativerily creating weak classifiers and using the ensemble of them to make a better prediction. Do not be confused with AdaBoost, even if both models have similiarities they are not quite the same.
+
+In detail, Gradient Boost starts with a single predition that minimizes the totality of the loss functionj (e.g. the mean if using the RMSE) and then iterating through the folllowing process:
+1. Calculate the gradient of the loss function (called residuals).
+2. Create a "small" decision tree that predicts the negative of the residuals. Multiply the predictions of the tree by a scalar called learning rate.
+3. Make new predictions by adding the contribution of the new decision tree to the previous predictions.
+4. Stop once the maximum number of tress has been reached or if the new tree fails to improve performance enough.
+
+The final predictions of the model will be the initial prediction summed to the scaled sum of all the trees.
+####
 ###
 
 ## Supervised-Regression
