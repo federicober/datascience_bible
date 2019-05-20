@@ -63,7 +63,33 @@ The final predictions of the model will be the initial prediction summed to the 
 ### ICA
 ### LLE
 
-# Metrics
+# Metrics and Norms
+## Error Metrics
+### Accuracy
+### Precision and recall
+### F1 and F2 scores
+### Beta score
+### ROC
+### RMSE
+###
+## Clustering metrics
+### Silhouette
+### Distance ratio
+### Variance ratio
+###
+## Multi-category metrics
+### Confusion matrix
+### Entropy
+###
+## Norms
+### Euclidan
+### Manhattan
+### Minkowski-p
+### Mahalanobis 
+### Hamming distance
+### Damerau–Levenshtein
+### Haversine
+###
 
 
 # DL Algorithms
