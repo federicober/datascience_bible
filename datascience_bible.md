@@ -107,6 +107,9 @@ The final predictions of the model will be the initial prediction summed to the 
 #### Self attention
 
 ### Embeddings
+### Generative Adversarial Network (GAN)
+https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30
+https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b
 ###
 
 ## Famous Neural Networks
@@ -119,9 +122,13 @@ The final predictions of the model will be the initial prediction summed to the 
 ### Recurrent
 #### ELMo
 #### BERT
+https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
 
 # RL
 https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
+
+# Data Preparation
+https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
 
 # Statistics
 http://www.randomservices.org/
@@ -151,3 +158,14 @@ https://mikulskibartosz.name/predicting-customer-lifetime-value-using-the-pareto
 #### MCMC
 ####
 ###
+
+# Python Packages
+## Numpy
+## Scipy
+## Pandas
+## Scikit Learn
+## Tensorflow
+## PyTorch
+## Keras
+## lifetimes
+## prince
