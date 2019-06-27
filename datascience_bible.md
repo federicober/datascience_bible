@@ -62,6 +62,10 @@ The final predictions of the model will be the initial prediction summed to the 
 ### Kernel PCA
 ### ICA
 ### LLE
+### MDS
+### TNSE
+Stochastic Neighbor Embedding
+https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 
 # Metrics and Norms
 ## Error Metrics
@@ -90,6 +94,13 @@ The final predictions of the model will be the initial prediction summed to the 
 ### Damerau–Levenshtein
 ### Haversine
 ###
+## Others
+### Cramer's V
+Cramer's V is measure of intercorrelation between 2 nominal (categorical) values. Its output value's range is [0, 1].
+### Covariance
+### Pearson Correlation
+###
+https://en.wikipedia.org/wiki/Uncertainty_coefficient
 
 
 # DL Algorithms
