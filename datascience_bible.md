@@ -67,6 +67,10 @@ The final predictions of the model will be the initial prediction summed to the 
 Stochastic Neighbor Embedding
 https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 
+## Recommendendation engine
+### Collaborative filtering
+
+
 # Metrics and Norms
 ## Error Metrics
 ### Accuracy
