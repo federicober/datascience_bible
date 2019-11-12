@@ -184,3 +184,26 @@ https://mikulskibartosz.name/predicting-customer-lifetime-value-using-the-pareto
 ## Keras
 ## lifetimes
 ## prince
+
+# Spark
+## Spark Introduction
+## Spark SQL
+### Spark SQL functions
+#### `explode`
+#### `when`
+#### `array_\w*`
+See Section Spark DataTypes, ArrayType.
+####
+### Built-ins
+#### Columns
+##### `cast`
+####  Built-ins DF
+##### `.withColumn`
+##### `.limit`
+##### `.toPandas`
+##### `.crossJoin`
+### Spark DataTypes
+#### ArrayType
+https://www.mungingdata.com/apache-spark/arraytype-columns
+#### MapType
+####
